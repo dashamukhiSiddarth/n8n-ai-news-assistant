@@ -25,7 +25,7 @@ summarized and delivered cleanly no ads, no noise, no subscriptions and also sav
 
 --->
 
-## 🚗 What This Project Does
+## What This Project Does
 
 Every morning, this automation:
 
