@@ -1,0 +1,11 @@
+.n8n/
+.env
+
+ls -lh workflow.json
+
+git add .
+git commit -m "Add AI-powered n8n news assistant"
+git branch -M main
+git push
+
+
