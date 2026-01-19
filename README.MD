@@ -43,7 +43,8 @@ The result is a short, distraction-free news update that can be read in minutes.
 
 ## Key Benefits
 
-- No advertisements  
+- No advertisement
+- No Payments
 - No subscriptions  
 - No login or apps required  
 - Easy-to-read summaries  
